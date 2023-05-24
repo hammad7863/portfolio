@@ -1,0 +1,123 @@
+/* navbar */
+.head{
+    width: 100%;
+}
+.nav{
+    flex-direction: column;
+    margin: auto;
+}
+nav ul li{
+    margin: 10px 5px;
+}
+.nav img{
+    height: 100px;
+}
+nav ul li a{
+    font-size: 13px;
+}
+.detail{
+    text-align: center;
+    margin: 8% 0 0 0;
+}
+.detail h1{
+    font-size: 35px;
+}
+.detail h3{
+    font-size: 20px;
+}
+.detail p{
+    font-size: 13px;
+}
+.detail-img{
+    flex-direction: column;
+}
+.detail a{
+    font-size: 12px;
+}
+.images{
+    display: none;
+    position: absolute;
+    width: 40%;
+    height: 70%;
+}
+.images img{
+    position: absolute;
+    top: 350px;
+    height: 90%;
+    left: 50%;
+}
+
+/* Aboout section */
+
+.about{
+    text-align: center;
+    flex-direction: column;
+    margin: 40px 0 0 0;
+    padding: 20px 0;
+}
+.about-img img{
+    height: 300px;
+    margin: 0 0 20px 0;
+}
+.about-text{
+    margin: 0;
+}
+.about-text h1{
+    font-size: 35px;
+}
+.about-text h3{
+    font-size: 20px;
+}
+.about-text p{
+    font-size: 13px;
+    margin: 0 33px;
+}
+.about-text a{
+    font-size: 12px;
+}
+
+/* services section */
+
+.services{
+    margin: 50px 0 0 0;
+}
+.services h1{
+    font-size: 35px;
+}
+.box{
+    flex-direction: column;
+    margin: 25px 0;
+}
+.boxes i{
+    font-size: 35px;
+}
+.boxes h3{
+    font-size: 20px;
+}
+.boxes p{
+    font-size: 13px;
+}
+.boxes a{
+    font-size: 12px;
+}
+
+/* Hire section */
+
+.hire h3{
+    font-size: 20px;
+}
+.hire a{
+    font-size: 12px;
+}
+
+/* Footer section */
+
+.footer h3{
+    font-size: 20px;
+}
+.footer p{
+    font-size: 13px;
+}
+.footer a i{
+    font-size: 20px;
+}
